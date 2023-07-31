@@ -5,7 +5,7 @@
 }
 body {
     height: 100vh;
-    background-color: rgb(52, 177, 223);
+    background-color: rgb(149, 246, 138);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,7 +28,7 @@ body {
     border-radius: 10px;
     font-weight: bold;
     color: rgb(215, 227, 238);
-    font-size: 1.5rem;
+    font-size: 2rem;
     border: none;
     background: rgb(44, 50, 44);
     display: flex;
@@ -38,23 +38,16 @@ body {
 .wholeScreen {
     padding: 8px;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     border-radius: 8px;
     grid-column: span 4;
     background-color: rgb(44, 50, 44);
     height: 120px;
 }
-.butscreen.up {
-    color: rgb(215, 227, 238);
-    padding: 8px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-    flex: 1;
-}
 .butscreen.recent {
     color: rgb(215, 227, 238);
     padding: 8px;
+    font-size: 3rem;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
