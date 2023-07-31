@@ -4,7 +4,7 @@
 
  - View given [assignment](https://www.theodinproject.com/lessons/foundations-calculator#assignment)
 
- - View [the project]()
+ - View [the project](https://volodimeru.github.io/calculator/)
 
 ## About
 
